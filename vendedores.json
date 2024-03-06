@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "nome": "Gerson Penha",
+        "cpf": 12987654321,
+        "contato": {
+            "email": "gerson.penha@fatec.sp.gov.br",
+            "ddd": 91,
+            "tefelefone": 992295588
+        },
+        "endereco": {
+            "cidade": "JavaLand"
+        },
+        "vendas_total": 2,
+        "produtos": ["Aprenda Assembly-Volume1", "Aprenda Django-Volume1", "HQ Marvel: o Império do Homem de Ferro edição2 volume 88"],
+        "preco": [31.99, 22.99, 18.49],
+        "descicao": ["Aprenda Assembly Agora, compre o livro!","Aprenda Django Agora, compre o livro!","O que aconteceria se Homem de Ferro ganahsse a guerra civil? descubra nesta HQ"],
+        "estoque": [5, 7, 20]
+    },
+
+    {
+        "id": 2,
+        "nome": "Fernando Arakaki",
+        "cpf": 13987654321,
+        "contato": {
+            "email": "fernando.arakaki@fatec.sp.gov.br",
+            "ddd": 11,
+            "tefelefone": 40028922
+        },
+        "endereco": {
+            "cidade": "São José dos Campos"
+        },
+        "vendas_total": 1,
+        "produtos": ["Introdução à Matemática Computacional aplicada volume1", "Introdução à Matemática Computacional aplicada volume2", "Batedeira Brastemp 200W 110V"],
+        "preco": [50.99, 50.99, 180.89],
+        "descicao": ["Aprenda Matemática para computação Agora mesmo, compre o livro!","Aprofunde seus conhecimentos sobre matemática para computação, compre o livro!","POTÊNCIA DE 400W: De claras em neve até massas de bolo, é garantia de uma consistência perfeita! 3 VELOCIDADES + TURBO: Ajuste a velocidade de acordo com o tipo de receita e use a função turbo para aumentar o desempenho. TAMANHO FAMÍLIA: A tigela de 3,6 litros tem o tamanho ideal para preparar delícias para toda a família."],
+        "estoque": [8, 4, 5]
+    },
+
+    {
+        "id": 3,
+        "nome": "Diego Branquinho",
+        "cpf": 11987654321,
+        "contato": {
+            "email": "contato@tecsus.com.br",
+            "ddd": 12 ,
+            "tefelefone": 39451515
+        },
+        "endereco": {
+            "cidade": "São José dos Campos"
+        },
+        "vendas_total": 30,
+        "produtos": ["Introdução ao MongoDB volume1", "Iphone 12 PRO MAX 256GB"],
+        "preco": [27.99, 8270.89],
+        "descicao": ["Aprenda Sobre MongoDB Agora mesmo, compre o livro!","12GB de memória RAM, camera frontal de 60mp, camera traseira de 80mp, bateria de 5000mml/h, armazenamento de 250GB"],
+        "estoque": [16, 30]
+    }
+]

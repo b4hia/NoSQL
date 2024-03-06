@@ -1,0 +1,119 @@
+[
+    {
+        "id": 1,
+        "nome": "Gabriel de Oliveira Silva Reis",
+        "data_nascimento": "21/07/2004",
+        "cpf": 12345678912,
+        "contato": {
+            "email": "gabriel.reis16@fatec.sp.gov.br",
+            "ddd": 12,
+            "tefelefone": 992291676
+        },
+        "enderecos": [
+            {
+            "logradouro": "Rua das Bromélias",
+            "numero": 96,
+            "bairro": "Campos Floridos",
+            "cep": 11111111,
+            "complemento": "",
+            "cidade": "Acácia",
+            "estado": "SP"
+            }
+        ],
+        "carrinho": [
+            {
+                "nome": "Aprenda Assembly-Volume1",
+                "preco": 31.99,
+                "descicao": "Aprenda Assembly Agora, compre o curso!",
+                "estoque": 5,
+                "Vendedor": "Gerson Penha",
+                "quantidade": 1
+            }
+        ],
+        "favoritos":[
+            {
+                "nome":[]
+            }
+        ]
+    },
+
+    {
+        "id": 2,
+        "nome": "Wellington Faria",
+        "data_nascimento": "04/01/2005",
+        "cpf": 12345678911,
+        "contato": [
+            {
+                "email": "wellinton.faria@fatec.sp.gov.br",
+                "ddd": 12,
+                "tefelefone": 992291677
+            }
+        ],
+        "enderecos": [
+            {
+                "logradouro": "Rua das Cobras",
+                "numero": 65,
+                "bairro": "Terra das Víboras",
+                "cep": 22222222,
+                "complemento": "null",
+                "cidade": "Cidade das Najas",
+                "estado": "MT"
+            }
+        ],
+        "carrinho": [
+            {
+                "nome": "Aprenda Assembly-Volume1",
+                "preco": 31.99,
+                "descicao": "Aprenda Assembly Agora, compre o curso!",
+                "estoque": 5,
+                "Vendedor": "Gerson Penha",
+                "quantidade": 1
+            }
+        ],
+        "favoritos":[
+            {
+                "nome":["Batedeira Brastemp 200W 110V"]
+            }
+        ]
+    },
+
+    {
+        "id": 3,
+        "nome": "Ryan Araujo",
+        "data_nascimento": "15/07/2004",
+        "cpf": 12345678910,
+        "contato": [
+            {
+                "email": "ryan.araujo@fatec.sp.gov.br",
+                "ddd": 12,
+                "tefelefone": 992291678
+            }
+        ],
+        "enderecos": [
+            {
+                "logradouro": "Rua da Cachaça",
+                "numero": 69,
+                "bairro": "Bituca de Cigarro",
+                "cep": 22222222,
+                "complemento": "null",
+                "cidade": "Askov",
+                "estado": "ES"
+            }
+        ],
+        "carrinho": [
+            {
+                "nome": "Aprenda Django-Volume1", 
+                "preco": 22.99,
+                "descicao": "Aprenda Django Agora, compre o curso!",
+                "estoque": 7,
+                "Vendedor": "Gerson Penha",
+                "quantidade": 1
+            }
+        ],
+        "favoritos":[
+            {
+                "nome": ["Aprenda Django-Volume1", "Iphone 12 PRO MAX 256GB" ]
+            }
+        ]
+    }
+]

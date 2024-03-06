@@ -1,0 +1,169 @@
+[
+    {
+        "id": 1,
+        "usuario": {
+            "nome": "Gabriel de Oliveira Silva Reis",
+            "data_nascimento": "21/07/2004",
+            "cpf": 12345678912,
+            "contato": {
+                "email": "gabriel.reis16@fatec.sp.gov.br",
+                "ddd": 12,
+                "tefelefone": 992291676
+            },
+            "enderecos": [
+                {
+                    "logradouro": "Rua das Bromélias",
+                    "numero": 96,
+                    "bairro": "Campos Floridos",
+                    "cep": 11111111,
+                    "complemento": "",
+                    "cidade": "Acácia",
+                    "estado": "SP"
+                }
+            ]
+        },
+        "produtos": [
+            {
+                "nomes": ["HQ Marvel: o Império do Homem de Ferro edição2 volume 88", "Batedeira Brastemp 200W 110V"],
+                "descricoes": ["O que aconteceria se Homem de Ferro ganahsse a guerra civil? descubra nesta HQ", "POTÊNCIA DE 400W: De claras em neve até massas de bolo, é garantia de uma consistência perfeita! 3 VELOCIDADES + TURBO: Ajuste a velocidade de acordo com o tipo de receita e use a função turbo para aumentar o desempenho. TAMANHO FAMÍLIA: A tigela de 3,6 litros tem o tamanho ideal para preparar delícias para toda a família."],
+                "precos": [18.49, 180.89],
+                "vendedores": [{
+                    "nomes": ["Gerson Penha", "Fernando Arakaki"],
+                    "cpfs": [12987654321, 13987654321],
+                    "cnpjs":["",""],
+                    "contatos": [{
+                        "email's": ["gerson.penha@fatec.sp.gov.br", "fernando.arakaki@fatec.sp.gov.br"],
+                        "ddd's": [91, 11],
+                        "tefelefones": [992295588, 40028922]
+                    }],
+                    "enderecos": [{
+                        "cidades": ["JavaLand", "São José dos Campos"]
+                    }],
+                    "produtos_vendidos_vendedores": [3, 1]
+                }],
+                "estoques": [20, 5],
+                "quantidade_comprada": [1, 1 ]
+            }
+        ],
+        "frete": 12.11,
+        "data_compra": "19/05/2020",
+        "data_entrega": "20/05/2020",
+        "garantia_extendida": 0,
+        "preco_total": 211.49
+    },
+
+
+
+    {
+        "id": 2,
+        "usuario": {
+            "nome": "Ryan Araujo",
+        "data_nascimento": "15/07/2004",
+        "cpf": 12345678910,
+        "contato": [
+            {
+                "email": "ryan.araujo@fatec.sp.gov.br",
+                "ddd": 12,
+                "tefelefone": 992291678
+            }
+        ],
+        "enderecos": [
+            {
+                "logradouro": "Rua da Cachaça",
+                "numero": 69,
+                "bairro": "Bituca de Cigarro",
+                "cep": 22222222,
+                "complemento": "null",
+                "cidade": "Askov",
+                "estado": "ES"
+            }
+        ]
+        },
+        "produtos": [
+            {
+                "nomes": ["Iphone 12 PRO MAX 256GB"],
+                "descricoes": ["12GB de memória RAM, camera frontal de 60mp, camera traseira de 80mp, bateria de 5000mml/h, armazenamento de 250GB"],
+                "precos": [8270.89],
+                "vendedores": [{
+                    "nomes": ["Diego Branquinho"],
+                    "cpfs": [11987654321],
+                    "cnpjs":[""],
+                    "contatos": [{
+                        "email's": ["contato@tecsus.com.br"],
+                        "ddd's": [12],
+                        "tefelefones": [39451515]
+                    }],
+                    "enderecos": [{
+                        "cidades": ["São José dos Campos"]
+                    }],
+                    "produtos_vendidos_vendedores": [30]
+                }],
+                "estoques": [30],
+                "quantidade_comprada": [1]
+            }
+        ],
+        "frete": 28.64,
+        "data_compra": "04/03/2021",
+        "data_entrega": "05/05/2021",
+        "garantia_extendida": 100,
+        "preco_total": 8399.53
+    },
+
+
+    
+
+    {
+        "id": 3,
+        "usuario": {
+            "nome": "Wellington Faria",
+        "data_nascimento": "04/01/2005",
+        "cpf": 12345678911,
+        "contato": [
+            {
+                "email": "wellinton.faria@fatec.sp.gov.br",
+                "ddd": 12,
+                "tefelefone": 992291677
+            }
+        ],
+        "enderecos": [
+            {
+                "logradouro": "Rua das Cobras",
+                "numero": 65,
+                "bairro": "Terra das Víboras",
+                "cep": 22222222,
+                "complemento": "null",
+                "cidade": "Cidade das Najas",
+                "estado": "MT"
+            }
+            ]
+        },
+        "produtos": [
+            {
+                "nomes": ["Introdução ao MongoDB volume1","Aprenda Assembly-Volume1"],
+                "descricoes": ["Aprenda Sobre MongoDB Agora mesmo, compre o livro!","Aprenda Assembly Agora, compre o livro!"],
+                "precos": [ 27.99, 31.99 ],
+                "vendedores": [{
+                    "nomes": [ "Diego Branquinho","Gerson Penha" ],
+                    "cpfs": [ 11987654321, 12987654321 ],
+                    "cnpjs":[""],
+                    "contatos": [{
+                        "email's": [ "contato@tecsus.com.br", "gerson.penha@fatec.sp.gov.br" ],
+                        "ddd's": [ 12, 91 ],
+                        "tefelefones": [ 39451515, 992295588 ]
+                    }],
+                    "enderecos": [{
+                        "cidades": [ "São José dos Campos", "JavaLand" ]
+                    }],
+                    "produtos_vendidos_vendedores": [ 30, 2 ]
+                }],
+                "estoques": [ 16, 5 ],
+                "quantidade_comprada": [ 29, 1 ]
+            }
+        ],
+        "frete": 12.11,
+        "data_compra": "21/01/2020",
+        "data_entrega": "22/01/2020",
+        "garantia_extendida": 0,
+        "preco_total": 72.09
+    }
+]

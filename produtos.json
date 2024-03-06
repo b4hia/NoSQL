@@ -1,0 +1,185 @@
+[
+    {
+        "id": 1,
+        "nome": "Aprenda Assembly-Volume1",
+        "descricao": "Aprenda Assembly Agora, compre o livro!",
+        "preco": 31.99,
+        "vendedor": {
+            "nome": "Gerson Penha",
+            "cpf": 12987654321,
+            "cnpj":"",
+            "contato": {
+                "email": "gerson.penha@fatec.sp.gov.br",
+                "ddd": 91,
+                "tefelefone": 992295588
+            },
+            "endereco": {
+                "cidade": "JavaLand"
+            },
+            "produtos_vendidos_vendedor": 2
+        },
+        "vendas_total_produto": 1,
+        "estoque": 5
+    },
+
+    {
+        "id": 2,
+        "nome": "Aprenda Django-Volume1",
+        "descricao": "Aprenda Django Agora, compre o livro!",
+        "preco": 22.99,
+        "vendedor": {
+            "nome": "Gerson Penha",
+            "cpf": 12987654321,
+            "cnpj":"",
+            "contato": {
+                "email": "gerson.penha@fatec.sp.gov.br",
+                "ddd": 91,
+                "tefelefone": 992295588
+            },
+            "endereco": {
+                "cidade": "JavaLand"
+            },
+            "produtos_vendidos_vendedor": 2
+        },
+        "vendas_total_produto": 0,
+        "estoque": 7
+    },
+
+    {
+        "id": 3,
+        "nome": "HQ Marvel: o Império do Homem de Ferro edição2 volume 88",
+        "descricao": "O que aconteceria se Homem de Ferro ganahsse a guerra civil? descubra nesta HQ",
+        "preco": 18.49,
+        "vendedor": {
+            "nome": "Gerson Penha",
+            "cpf": 12987654321,
+            "cnpj":"",
+            "contato": {
+                "email": "gerson.penha@fatec.sp.gov.br",
+                "ddd": 91,
+                "tefelefone": 992295588
+            },
+            "endereco": {
+                "cidade": "JavaLand"
+            },
+            "produtos_vendidos_vendedor": 2
+        },
+        "vendas_total_produto": 1,
+        "estoque": 20
+    },
+
+    {
+        "id": 4,
+        "nome": "Introdução à Matemática Computacional aplicada volume1",
+        "descricao": "Aprenda Matemática para computação Agora mesmo, compre o livro!",
+        "preco": 50.99,
+        "vendedor": {
+            "nome": "Fernando Arakaki",
+            "cpf": 13987654321,
+            "cnpj":"",
+            "contato": {
+                "email": "fernando.arakaki@fatec.sp.gov.br",
+                "ddd": 11,
+                "tefelefone": 40028922
+            },
+            "endereco": {
+                "cidade": "São José dos Campos"
+            },
+            "produtos_vendidos_vendedor": 1
+        },
+        "vendas_total_produto": 0,
+        "estoque": 8
+    },
+
+    {
+        "id": 5,
+        "nome": "Introdução à Matemática Computacional aplicada volume2",
+        "descricao": "Aprofunde seus conhecimentos sobre matemática para computação, compre o livro!",
+        "preco": 50.99,
+        "vendedor": {
+            "nome": "Fernando Arakaki",
+            "cpf": 13987654321,
+            "cnpj":"",
+            "contato": {
+                "email": "fernando.arakaki@fatec.sp.gov.br",
+                "ddd": 11,
+                "tefelefone": 40028922
+            },
+            "endereco": {
+                "cidade": "São José dos Campos"
+            },
+            "produtos_vendidos_vendedor": 1
+        },
+        "vendas_total_produto": 0,
+        "estoque": 4
+    },
+
+    {
+        "id": 6,
+        "nome": "Batedeira Brastemp 200W 110V",
+        "descricao": "POTÊNCIA DE 400W: De claras em neve até massas de bolo, é garantia de uma consistência perfeita! 3 VELOCIDADES + TURBO: Ajuste a velocidade de acordo com o tipo de receita e use a função turbo para aumentar o desempenho. TAMANHO FAMÍLIA: A tigela de 3,6 litros tem o tamanho ideal para preparar delícias para toda a família.",
+        "preco": 180.89,
+        "vendedor": {
+            "nome": "Fernando Arakaki",
+            "cpf": 13987654321,
+            "cnpj":"",
+            "contato": {
+                "email": "fernando.arakaki@fatec.sp.gov.br",
+                "ddd": 11,
+                "tefelefone": 40028922
+            },
+            "endereco": {
+                "cidade": "São José dos Campos"
+            },
+            "produtos_vendidos_vendedor": 1
+        },
+        "vendas_total_produto": 1,
+        "estoque": 5
+    },
+
+    {
+        "id": 7,
+        "nome": "Introdução ao MongoDB volume1",
+        "descricao": "Aprenda Sobre MongoDB Agora mesmo, compre o livro!",
+        "preco": 27.99,
+        "vendedor": {
+            "nome": "Diego Branquinho",
+            "cpf": 11987654321,
+            "cnpj":"",
+            "contato": {
+                "email": "contato@tecsus.com.br",
+                "ddd": 12 ,
+                "tefelefone": 39451515
+            },
+            "endereco": {
+                "cidade": "São José dos Campos"
+            },
+            "produtos_vendidos_vendedor": 30
+        },
+        "vendas_total_produto": 29,
+        "estoque": 16
+    },
+
+    {
+        "id": 8,
+        "nome": "Iphone 12 PRO MAX 256GB",
+        "descricao": "12GB de memória RAM, camera frontal de 60mp, camera traseira de 80mp, bateria de 5000mml/h, armazenamento de 250GB",
+        "preco": 8270.89,
+        "vendedor": {
+            "nome": "Diego Branquinho",
+            "cpf": 11987654321,
+            "cnpj":"",
+            "contato": {
+                "email": "contato@tecsus.com.br",
+                "ddd": 12 ,
+                "tefelefone": 39451515
+            },
+            "endereco": {
+                "cidade": "São José dos Campos"
+            },
+            "produtos_vendidos_vendedor": 30
+        },
+        "vendas_total_produto": 1,
+        "estoque": 30
+    }
+]
